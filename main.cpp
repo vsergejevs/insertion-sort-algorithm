@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
-    cout << "First line of insertion sort algorithm";
+    for j = 2 to A.length
 
     return 0;
 }
