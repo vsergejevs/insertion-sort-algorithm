@@ -1,0 +1,3 @@
+/Users/valerijssergejevs/Programming-Projects/insertion-sort-algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/valerijssergejevs/Programming-Projects/insertion-sort-algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valerijssergejevs/Programming-Projects/insertion-sort-algorithm/cmake-build-debug/CMakeFiles/insertion_sort_algorithm.dir
