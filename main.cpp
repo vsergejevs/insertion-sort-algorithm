@@ -33,8 +33,14 @@ int* randomArray(int arrLength) //change to pointer function to return an array
     return randArray;
 }
 
-void insertionSort(int *arr, int arrL)
+void insertionSort()
 {
+//    int *arr, int arrL
+
+    int arrL = 10;
+
+    int arr [10] = {7, 4, 3, 9, 2, 8, 5, 1, 6, 10};
+
     cout << "insertion sort test, array length is: " << arrL << endl;
     int l;
     for (l = 0; l < arrL; l++)
@@ -69,10 +75,12 @@ void insertionSort(int *arr, int arrL)
 
 int main() {
 
-    int a = arrayLength();
-    int *p; //using pointer as dereference operator to access functions value
-    p = randomArray(a);
-    insertionSort(p, a);
+//    int a = arrayLength();
+//    int *p; //using pointer as dereference operator to access functions value
+//    p = randomArray(a);
+//    insertionSort(p, a);
+
+    insertionSort();
 
 return 0;
 }
